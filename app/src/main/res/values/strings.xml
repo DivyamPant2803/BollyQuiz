@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BollyQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Sahi jawab !</string>
+    <string name="incorrect_toast">Galat jawab !</string>
+    <string name="next_button">Next</string>
+
+    <string name="question_1">Sanjay Leela Bhansali is the director of Khaamoshi:The Musical</string>
+    <string name="question_2">Love Aaj Kal was Imtiaz Ali\'s first movie</string>
+    <string name="question_3">Aamir Khan has never directed a movie</string>
+    <string name="question_4">The Lunchbox got an Oscar</string>
+    <string name="question_5">Sholay was directed by Ramesh Sippy</string>
+</resources>
