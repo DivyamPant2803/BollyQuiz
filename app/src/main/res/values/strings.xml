@@ -14,6 +14,7 @@
     <string name="warning_text">Are you sure you want to do this?</string>
     <string name="show_answer_button">Show Answer</string>
     <string name="judgement_toast">Cheating is wrong.</string>
+    <string name="api_level">API Level </string>
 
     <string name="question_1">Sanjay Leela Bhansali is the director of Khaamoshi:The Musical</string>
     <string name="question_2">Love Aaj Kal was Imtiaz Ali\'s first movie</string>
